@@ -1,17 +1,46 @@
-### Hi there 👋 
-🌱 I’m currently learning DEVOPS skills.
+### Hi there 👋 I'm Josoa
 
-<!--
-**josoa-ramaroson/josoa-ramaroson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps enthusiast** with a strong passion for automation, cloud, and scalable systems.  
+I enjoy building, deploying, and maintaining reliable infrastructure while continuously learning modern DevOps practices.
 
-Here are some ideas to get you started:
+🌱 Currently deepening my skills in **Cloud, CI/CD, Infrastructure as Code, and Container Orchestration**.
 
-- 🔭 I’m currently working on ...
-- ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills
+
+**Programming & Scripting**
+- Python, JavaScript, Shell scripting (Bash)
+
+**Databases**
+- MySQL, PostgreSQL, MongoDB
+
+**DevOps & Automation**
+- Ansible, Terraform  
+- Git, Docker, Jenkins, Kubernetes
+
+**Operating Systems**
+- Linux, Windows Server
+
+**Cloud Platforms**
+- ☁️ **Google Cloud Platform**  
+  - 7 skill badges & 12 course badges  
+  - Public profile: https://bit.ly/gcpskills
+- ☁️ AWS (hands-on fundamentals)
+
+---
+
+### 🔭 What I’m focused on
+- Automating infrastructure and deployments  
+- Designing CI/CD pipelines  
+- Working with containers and Kubernetes  
+- Cloud-native architectures and DevOps best practices
+
+---
+
+### 👯 Open to
+- DevOps projects
+- Open-source collaboration
+- Learning from real-world production environments
+
+📫 **Let’s connect:** Feel free to reach out via GitHub!
