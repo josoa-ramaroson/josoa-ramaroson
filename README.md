@@ -1,71 +1,98 @@
-<h1 align="center">Hi 👋 I'm Josoa</h1>
-<h3 align="center">DevOps Engineer • Cloud Enthusiast • Automation Driven</h3>
+<h1 align="center">Josoa RAMAROSON</h1>
+<h3 align="center">Cloud Architect • Multi-Cloud Engineer • Infrastructure Strategist</h3>
 
 <p align="center">
-  Building scalable infrastructure and automating everything I can.
+Designing resilient, scalable and production-grade cloud architectures.
 </p>
 
 ---
 
-## ⚡ Tech Stack
+## ☁️ Multi-Cloud Architecture Expertise
 
-### 💻 Languages
+### 🏗️ Compute & Application Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker" />
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+**AWS**  
+EC2 • Lambda • Auto Scaling • Elastic Load Balancer • EIP  
 
-### ⚙️ DevOps & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,terraform,ansible" />
-</p>
-
-### 🖥️ Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
-</p>
-
-### ☁️ Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,aws" />
-</p>
+**GCP**  
+Compute Engine • Cloud Run • App Engine • GKE  
 
 ---
 
-## 🎯 Current Focus
+### 🌐 Networking & Infrastructure Design
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform" />
+</p>
 
-- Designing resilient cloud architectures  
-- Automating infrastructure with Terraform & Ansible  
-- Building production-ready CI/CD pipelines  
-- Kubernetes & container orchestration  
-- Cloud-native best practices  
+**AWS**  
+VPC • Subnets • Route Tables • NAT Gateway • ELB • Application Load Balancer  
 
----
-
-## 🏅 Cloud Achievements
-
-☁️ **Google Cloud Platform**
-- 7 Skill Badges  
-- 12 Course Badges  
-- 🔗 Public profile: https://bit.ly/gcpskills  
-
-☁️ **AWS**
-- Hands-on foundational projects  
+**GCP**  
+VPC • Subnets • Firewall Rules • Cloud NAT • Load Balancing • URL Map • Backend Buckets • Cloud VPN  
 
 ---
 
-## 🤝 Open To
+### 🗄️ Data & Storage Architecture
 
-- DevOps & Cloud projects  
-- Open-source collaboration  
-- Production-grade infrastructure challenges  
+**AWS**  
+S3 • RDS • DynamoDB  
+
+**GCP**  
+Cloud Storage • Persistent Disk • Cloud SQL • Firestore  
+
+---
+
+### 🔐 Identity, Security & Governance
+
+**AWS**  
+IAM  
+
+**GCP**  
+IAM  
+
+---
+
+### 🚀 DevOps & CI/CD Ecosystems
+
+**AWS**  
+CloudFormation • CodePipeline • CodeBuild • CodeDeploy • CloudWatch  
+
+**GCP**  
+Cloud Build • Artifact Registry • Cloud Monitoring • Cloud Logging  
+
+---
+
+### 📡 Eventing & Distributed Systems
+
+**AWS**  
+AWS IoT  
+
+**GCP**  
+Pub/Sub  
+
+---
+
+## 🎯 Architecture Focus
+
+- Designing **high availability multi-tier architectures**
+- Implementing **scalable microservices platforms**
+- Building **secure VPC network topologies**
+- Designing **CI/CD pipelines across multi-cloud**
+- Infrastructure as Code & immutable deployments
+- Observability-driven systems
+
+---
+
+## 🏅 Cloud Credentials
+
+☁️ Google Cloud – 7 Skill Badges • 12 Course Badges  
+☁️ AWS – Production-oriented hands-on architecture  
 
 ---
 
 <p align="center">
-  🚀 Always learning. Always building.
+Engineering cloud systems that scale with confidence.
 </p>
