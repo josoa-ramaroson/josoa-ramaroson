@@ -51,9 +51,9 @@ Designing secure, scalable and production-grade cloud architectures across multi
 </td>
 <td align="center">
 
-### 🔐 Security & IaC
+### 🔐 IaC
 
-<img src="https://skillicons.dev/icons?i=terraform,ansible,git" />
+<img src="https://skillicons.dev/icons?i=terraform,ansible" />
 
 </td>
 </tr>
