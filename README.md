@@ -1,46 +1,71 @@
-### Hi there 👋 I'm Josoa
+<h1 align="center">Hi 👋 I'm Josoa</h1>
+<h3 align="center">DevOps Engineer • Cloud Enthusiast • Automation Driven</h3>
 
-🚀 **DevOps enthusiast** with a strong passion for automation, cloud, and scalable systems.  
-I enjoy building, deploying, and maintaining reliable infrastructure while continuously learning modern DevOps practices.
-
-🌱 Currently deepening my skills in **Cloud, CI/CD, Infrastructure as Code, and Container Orchestration**.
-
----
-
-### 🛠️ Technical Skills
-
-**Programming & Scripting**
-- Python, JavaScript, Shell scripting (Bash)
-
-**Databases**
-- MySQL, PostgreSQL, MongoDB
-
-**DevOps & Automation**
-- Ansible, Terraform  
-- Git, Docker, Jenkins, Kubernetes
-
-**Operating Systems**
-- Linux, Windows Server
-
-**Cloud Platforms**
-- ☁️ **Google Cloud Platform**  
-  - 7 skill badges & 12 course badges  
-  - Public profile: https://bit.ly/gcpskills
-- ☁️ AWS (hands-on fundamentals)
+<p align="center">
+  Building scalable infrastructure and automating everything I can.
+</p>
 
 ---
 
-### 🔭 What I’m focused on
-- Automating infrastructure and deployments  
-- Designing CI/CD pipelines  
-- Working with containers and Kubernetes  
-- Cloud-native architectures and DevOps best practices
+## ⚡ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,bash" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### ⚙️ DevOps & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,terraform,ansible" />
+</p>
+
+### 🖥️ Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
+
+### ☁️ Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,aws" />
+</p>
 
 ---
 
-### 👯 Open to
-- DevOps projects
-- Open-source collaboration
-- Learning from real-world production environments
+## 🎯 Current Focus
 
-📫 **Let’s connect:** Feel free to reach out via GitHub!
+- Designing resilient cloud architectures  
+- Automating infrastructure with Terraform & Ansible  
+- Building production-ready CI/CD pipelines  
+- Kubernetes & container orchestration  
+- Cloud-native best practices  
+
+---
+
+## 🏅 Cloud Achievements
+
+☁️ **Google Cloud Platform**
+- 7 Skill Badges  
+- 12 Course Badges  
+- 🔗 Public profile: https://bit.ly/gcpskills  
+
+☁️ **AWS**
+- Hands-on foundational projects  
+
+---
+
+## 🤝 Open To
+
+- DevOps & Cloud projects  
+- Open-source collaboration  
+- Production-grade infrastructure challenges  
+
+---
+
+<p align="center">
+  🚀 Always learning. Always building.
+</p>
